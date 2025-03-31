@@ -1,7 +1,7 @@
 # BRGWeb
 
 <div align="center">
-  <img src=".github/logo.png" alt="BRGWeb Logo" width="200"/>
+  <img src="https://brgweb.com.br/wp-content/uploads/2011/10/brgWEB1-1.png" alt="BRGWeb Logo" width="200"/>
   
   [![Website](https://img.shields.io/badge/Website-brgweb.com.br-blue?style=flat-square&logo=firefox)](https://www.brgweb.com.br)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-BRGWeb-blue?style=flat-square&logo=linkedin)](https://linkedin.com/company/brgweb)
