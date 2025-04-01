@@ -19,11 +19,13 @@ teams:
     permission: admin
   - name: backend
     permission: push
-  - name: data
+  - name: mobile
     permission: push
   - name: frontend
     permission: push
   - name: infrastructure
+    permission: push
+  - name: product
     permission: push
 
 branches:
