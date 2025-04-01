@@ -1,0 +1,33 @@
+backend:
+  description: As pessoas que constroem os sistemas que mantêm tudo funcionando, mesmo que ninguém as veja ou agradeça.
+  members:
+    - github: AdaiasMartins
+    - github: Allanvvaz
+    
+
+mobile:
+  description: Quem cria aplicativos que os clientes não desinstalam para dar espaço para memes de gatos.
+  members:
+    - github: gbrlbarreto
+    - github: RafaellaBarbosa
+    - github: itsrafaangelo
+    - github: henrique-1
+
+frontend:
+  description: As pessoas criadoras das ferramentas que os clientes adoram, garantindo que cada clique seja perfeito.
+  members:
+    - github: gabrielpdlh
+
+product:
+  description: Quem faz os produtos parecerem lindos e incríveis, só para tornar a vida dos desenvolvedores mais difícil.
+  members:
+    - github: cinthialindolfo
+    - github: anacarolinaAlvarenga
+    - github: laisesantos
+    - github: Victoria-Vasconcellos
+
+architecture:
+  description: Quem projeta e protege, projetando o que outros constroem e garantindo que tudo funcione perfeitamente — enquanto descobrem como construir.
+  members:
+    - github: LeandroSimo
+    - github: ricardobrg
